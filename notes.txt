@@ -1,0 +1,11 @@
+install packages and usages:
+1) antd: for styling
+2) ant-design/icons: for icons
+3) axios: for api request
+4) chart.js: create chart
+5) html-react-parser: to parse some html data
+6) millify: transfer extremely large numbers into readable strings
+7) moment: to parse time and date
+8) react-chartjs-2: to render the charts from chart.js in our react application
+9) redux-toolkit: It is a simple approach to replace complex logic of redux and implement it easily.
+10) react-router-dom: to navigate
